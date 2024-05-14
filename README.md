@@ -1,30 +1,35 @@
-# React + TypeScript + Vite
+## React-lazy-load-images
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### `Demo:` https://dmitriyshkredov.github.io/react-lazy-load-images/
 
-Currently, two official plugins are available:
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+#### `git clone https://github.com/DmitriyShkredov/react-lazy-load-images.git`
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+#### `npm install`
 
-- Configure the top-level `parserOptions` property like this:
+#### `npm run dev`
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+#### `npm run build`
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+---
+
+### Did my video or project help you? Then buy me a coffee.
+
+<a href="https://www.buymeacoffee.com/DmitriyShkredov" target="_blank">
+  <img
+    src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+    alt="Buy Me A Coffee ;)"
+    style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
+  >
+</a>
+
+<a href="https://donate.qiwi.com/payin/ShkredovDmitriy" target="_blank">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me A Coffee ;)"
+    style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
+  >
+</a>
